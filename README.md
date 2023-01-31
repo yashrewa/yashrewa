@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashrewa
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in exploring new technologies
+- 🌱 I’m currently working in React JS and REST API's
+- 💞️ I’m looking to collaborate on some cool projects
 - 📫 How to reach me yashrewa00@gmail.com
 
 <!---
