@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Creating full stack projects using different techs**
 
-- 🌱 I’m currently learning **Frontend frameworks**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **React, Recoil, Tailwind,**
 
