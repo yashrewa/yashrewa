@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Creating full stack projects using different techs**
 
-- 🌱 I’m currently learning **Typescript & TurboRepo to creating robust full stack apps**
+- 🌱 I have good hands on **Typescript & TurboRepo to creating robust full stack apps**
 
 - 💬 Ask me about **React, Recoil, Tailwind,**
 
